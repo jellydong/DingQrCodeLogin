@@ -3,6 +3,7 @@
 #### 效果：
 ![效果]( /lib/DingQrCodeLogin.gif "效果")
 
+> > 源代码地址：https://github.com/jellydong/DingQrCodeLogin
 #### 动手敲代码！
 
 ##### 第一步，钉钉后台配置 
